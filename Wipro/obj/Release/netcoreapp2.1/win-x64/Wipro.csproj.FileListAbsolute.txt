@@ -1,0 +1,14 @@
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\bin\Release\netcoreapp2.1\win-x64\Wipro.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\bin\Release\netcoreapp2.1\win-x64\Wipro.deps.json
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\bin\Release\netcoreapp2.1\win-x64\Wipro.runtimeconfig.json
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\bin\Release\netcoreapp2.1\win-x64\Wipro.runtimeconfig.dev.json
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\bin\Release\netcoreapp2.1\win-x64\Wipro.dll
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\bin\Release\netcoreapp2.1\win-x64\Wipro.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\obj\Release\netcoreapp2.1\win-x64\Wipro.csprojAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\obj\Release\netcoreapp2.1\win-x64\Wipro.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\obj\Release\netcoreapp2.1\win-x64\Wipro.AssemblyInfoInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\obj\Release\netcoreapp2.1\win-x64\Wipro.AssemblyInfo.cs
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\obj\Release\netcoreapp2.1\win-x64\Wipro.dll
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\obj\Release\netcoreapp2.1\win-x64\Wipro.pdb

@@ -1,0 +1,17 @@
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\WiproTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\WiproTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\WiproTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\WiproTest\bin\Release\netcoreapp2.1\WiproTest.deps.json
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\WiproTest\bin\Release\netcoreapp2.1\WiproTest.runtimeconfig.json
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\WiproTest\bin\Release\netcoreapp2.1\WiproTest.runtimeconfig.dev.json
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\WiproTest\bin\Release\netcoreapp2.1\WiproTest.dll
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\WiproTest\bin\Release\netcoreapp2.1\WiproTest.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\WiproTest\bin\Release\netcoreapp2.1\Wipro.dll
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\WiproTest\bin\Release\netcoreapp2.1\Wipro.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\WiproTest\obj\Release\netcoreapp2.1\WiproTest.csprojAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\WiproTest\obj\Release\netcoreapp2.1\WiproTest.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\WiproTest\obj\Release\netcoreapp2.1\WiproTest.AssemblyInfoInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\WiproTest\obj\Release\netcoreapp2.1\WiproTest.AssemblyInfo.cs
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\WiproTest\obj\Release\netcoreapp2.1\WiproTest.csproj.CopyComplete
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\WiproTest\obj\Release\netcoreapp2.1\WiproTest.dll
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\WiproTest\obj\Release\netcoreapp2.1\WiproTest.pdb
