@@ -1,9 +1,13 @@
 # wipro
 web crawler Project Structure
 Wipro /*root solution folder*/
----Wipro /*Crawler Console App */
----WiproTest /*Crawler Test App */
+---Wipro /*Crawler Console App Project */
+-------Program.cs /*Crawler Console Main Entry Point and sole Class  */
+---WiproTest /*Crawler Test App Project*/
+-------ProgramTest.cs /* Test Class  */
 ---Publish /*Release binaries include wipro.exe and wibrotest.dll*/
+-------wipro.exe /*Crawler Console App - ready to run  */
+-------wiprotest.exe /*Crawler Test  */
 
 To run app
 1) Navigate to the directory ./wipro/publish 
