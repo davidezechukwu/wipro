@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Wipro": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.bbc.co.uk  100"
+    }
+  }
+}
