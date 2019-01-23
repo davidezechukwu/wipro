@@ -8,3 +8,14 @@ C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\obj\Debug\netco
 C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\obj\Debug\netcoreapp2.1\Wipro.AssemblyInfo.cs
 C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\obj\Debug\netcoreapp2.1\Wipro.dll
 C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro\Wipro\obj\Debug\netcoreapp2.1\Wipro.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro2\wipro\Wipro\bin\Debug\netcoreapp2.1\Wipro.deps.json
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro2\wipro\Wipro\bin\Debug\netcoreapp2.1\Wipro.runtimeconfig.json
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro2\wipro\Wipro\bin\Debug\netcoreapp2.1\Wipro.runtimeconfig.dev.json
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro2\wipro\Wipro\bin\Debug\netcoreapp2.1\Wipro.dll
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro2\wipro\Wipro\bin\Debug\netcoreapp2.1\Wipro.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro2\wipro\Wipro\obj\Debug\netcoreapp2.1\Wipro.csprojAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro2\wipro\Wipro\obj\Debug\netcoreapp2.1\Wipro.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro2\wipro\Wipro\obj\Debug\netcoreapp2.1\Wipro.AssemblyInfoInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro2\wipro\Wipro\obj\Debug\netcoreapp2.1\Wipro.AssemblyInfo.cs
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro2\wipro\Wipro\obj\Debug\netcoreapp2.1\Wipro.dll
+C:\Users\david\Documents\Visual Studio 2017\Projects\Wipro2\wipro\Wipro\obj\Debug\netcoreapp2.1\Wipro.pdb

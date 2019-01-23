@@ -2,7 +2,7 @@
   "profiles": {
     "Wipro": {
       "commandName": "Project",
-      "commandLineArgs": "https://www.bbc.co.uk  100"
+      "commandLineArgs": "http://garzin.uk  20"
     }
   }
 }
