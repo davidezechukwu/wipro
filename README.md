@@ -30,6 +30,8 @@ Trade-offs
 2 There is no use of interfaces or abstract base classes or Object Orientation, all the crawl logic is located on one static class
 3 There is a limit to the number of pages that could be indexed
 4 There is no handling of sub-domains
+5 Test coverage might not be 100% 
+6 No design patterns were used, however I could have used the strategy pattern to implement services for generating either XML, TEXT or JSON from the crawled page links
 
 Assumptions 
 No XML Schema was provided however, the outputted xml closely mirror what was asked for
