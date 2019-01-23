@@ -1,13 +1,13 @@
 # wipro
 Project Structure
 Wipro 
-  Wipro 
-     Program.cs 
-  WiproTest 
-     ProgramTest.cs
-  Publish 
-     wipro.exe 
-     wiprotest.exe 
+Wipro\Wipro 
+Wipro\Wipro\Program.cs 
+Wipro\WiproTest 
+Wipro\WiproTest\ProgramTest.cs
+Wipro\Publish
+Wipro\Publish\wipro.exe 
+Wipro\Publish\wiprotest.exe 
 
 To run app
 1) Navigate to the directory ./wipro/publish 
