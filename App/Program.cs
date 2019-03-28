@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 using System.Web;
 using System.Xml;
 
-namespace App
+namespace Wipro
 {
     public class Program
     {
@@ -51,22 +51,22 @@ namespace App
         {
             if (args == null || args.Length == 0 || args[0].Trim().Length == 0)
             {
-                Console.WriteLine("Usage: App.exe [DNS | IPV4 || IPV6]  MaxNumberOfPagesToCrawl(default is 50)");
-                Console.WriteLine("for example: App.exe https://www.Appdigital.com  20");
-                Console.WriteLine("for example: App.exe https://www.Appdigital.com/ ");
-                Console.WriteLine("for example: App.exe http://www.Appdigital.com ");
-                Console.WriteLine("for example: App.exe https://Appdigital.com 40");
-                Console.WriteLine("for example: App.exe http://Appdigital.com 40");
-                Console.WriteLine("for example: App.exe http://App.digital 40");
-                Console.WriteLine("for example: App.exe Appdigital.com 40");
-                Console.WriteLine("for example: App.exe 52.7.121.233 40");
-                Console.WriteLine("for example: App.exe https://52.7.121.233:443/");
+                Console.WriteLine("Usage: Wipro.exe [DNS | IPV4 || IPV6]  MaxNumberOfPagesToCrawl(default is 50)");
+                Console.WriteLine("for example: Wipro.exe https://www.wiprodigital.com  20");
+                Console.WriteLine("for example: Wipro.exe https://www.wiprodigital.com/ ");
+                Console.WriteLine("for example: Wipro.exe http://www.wiprodigital.com ");
+                Console.WriteLine("for example: Wipro.exe https://wiprodigital.com 40");
+                Console.WriteLine("for example: Wipro.exe http://wiprodigital.com 40");
+                Console.WriteLine("for example: Wipro.exe http://wipro.digital 40");
+                Console.WriteLine("for example: Wipro.exe wiprodigital.com 40");
+                Console.WriteLine("for example: Wipro.exe 52.7.121.233 40");
+                Console.WriteLine("for example: Wipro.exe https://52.7.121.233:443/");
                 Console.WriteLine("Output is written to ./Crawl output for [domain] on [long utc date] [long utc time].xml");
             }
 
             if (!(args[0] != null && args[0].Trim().Length > 0 && ((Uri.CheckHostName(args[0]) != UriHostNameType.Unknown || Uri.IsWellFormedUriString(args[0], UriKind.Absolute)))))
             {
-                Console.WriteLine("The URL provided is not valid, please provide a URL in the form of Appdigital.com, App.com, http://Appdigital.com, https://Appdigital.com, https://www.Appdigital.com, App.org, App.digital");
+                Console.WriteLine("The URL provided is not valid, please provide a URL in the form of wiprodigital.com, wipro.com, http://wiprodigital.com, https://wiprodigital.com, https://www.wiprodigital.com, wipro.org, wipro.digital");
                 return;
             }
 

@@ -1,23 +1,21 @@
 # wipro
 Project Structure
-1) Wipro 
-2) Wipro\Wipro 
-3) Wipro\Wipro\Program.cs 
-4) Wipro\WiproTest 
-5) Wipro\WiproTest\ProgramTest.cs
-6) Wipro\Publish
-7) Wipro\Publish\wipro.exe 
-8) Wipro\Publish\wiprotest.exe 
+1) App\Program.cs 
+2) App\AppTest 
+5) App\AppTest\ProgramTest.cs
+6) App\Publish
+7) App\Publish\program.exe 
+8) App\Publish\program.exe 
 
 To run app
-1) Navigate to the directory ./wipro/publish 
-2) Run wipro.exe [domain] [number of pages to index]
-3) Alternatively just run wipro.exe for the command line options
+1) Navigate to the directory ./App/publish 
+2) Run program.exe [domain] [number of pages to index]
+3) Alternatively just run program.exe for the command line options
  
 To run tests (Tests uses MSTest)
-1) Navigate to the directory ./wipro/publish 
-2) Run [PATH TO vstest.console.exe] wiprotest.dll
-   For Example: "D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\Extensions\TestPlatform\vstest.console.exe" wiprotest.dll
+1) Navigate to the directory ./app/publish 
+2) Run [PATH TO vstest.console.exe] programtest.dll
+   For Example: "D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\Extensions\TestPlatform\vstest.console.exe" programtest.dll
 3) Alternatively Load the solution or projects in Visual Studio and carry out the tests from  the IDE
 
 
@@ -31,7 +29,4 @@ Trade-offs
 3 There is a limit to the number of pages that could be indexed
 4 There is no handling of sub-domains
 5 Test coverage might not be 100% 
-6 No design patterns were used, however I could have used the strategy pattern to implement services for generating either XML, TEXT or JSON from the crawled page links
-
-Assumptions 
-No XML Schema was provided however, the outputted xml closely mirror what was asked for
+6 No design patterns were used, however I could have used the strategy pattern to implement services for generating either XML, TEXT or JSON from the crawled page link
