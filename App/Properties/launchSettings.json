@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "Wipro": {
+    "App": {
       "commandName": "Project",
       "commandLineArgs": "http://garzin.uk  20"
     }
